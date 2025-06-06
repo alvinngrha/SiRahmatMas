@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SiRahmatMasApp</string>
+    <string name="selamat_datang_di_sirahmatmas">Selamat Datang di SiRahmatMas</string>
+    <string name="deskripsi">Aplikasi pencatatan transaksi jual beli emas yang praktis dan aman untuk membantu pengelolaan transaksi di Toko Emas Rahmat Baru. Cukup login, catat, dan kelola semua transaksi hanya dari genggaman tangan Anda.</string>
+    <string name="login_dengan_akun_google">Login dengan Akun Google</string>
+</resources>
